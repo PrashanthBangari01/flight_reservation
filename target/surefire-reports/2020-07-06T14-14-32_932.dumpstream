@@ -1,0 +1,19 @@
+# Created at 2020-07-06T14:14:41.846
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Cucumber_Sel_Test\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
+# Created at 2020-07-06T14:14:45.373
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2020-07-06T14:14:45.375
+WARNING: Illegal reflective access by org.testng.xml.XMLParser (file:/C:/Users/91851/.m2/repository/org/testng/testng/6.9.9/testng-6.9.9.jar) to constructor com.sun.org.apache.xerces.internal.jaxp.SAXParserFactoryImpl()
+
+# Created at 2020-07-06T14:14:45.375
+WARNING: Please consider reporting this to the maintainers of org.testng.xml.XMLParser
+
+# Created at 2020-07-06T14:14:45.378
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2020-07-06T14:14:45.379
+WARNING: All illegal access operations will be denied in a future release
+
